@@ -4,7 +4,7 @@ Japanese Calendar Converter for InterSystems products
 
 This tool helps to Convert a $horolog value to Japanese calendar format. Or vice versa.
 
-Installation
+Installation:
 
 Import and compile the files in the src directory to a given namespace.
 
