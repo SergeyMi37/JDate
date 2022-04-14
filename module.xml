@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Export generator="Cache" version="25">
+  <Document name="Util.JDate">
+    <Module>
+      <Name>JDate</Name>
+      <Version>2.0</Version>
+      <Packaging>module</Packaging>
+      <Description>Japanese Calendar Converter for InterSystems products</Description>
+    </Module>
+  </Document>
+</Export>
