@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="Util.JDate">
+  <Document name="Util.JDate.ZPM">
     <Module>
       <Name>JDate</Name>
       <Version>2.0</Version>
+      <Description>Japanese Calendar Converter for InterSystems products</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="JDate.PKG"/>
-      <Description>Japanese Calendar Converter for InterSystems products</Description>
     </Module>
   </Document>
 </Export>
