@@ -7,7 +7,8 @@
       <Description>Japanese Calendar Converter for InterSystems products</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="JDate.PKG"/>
+      <Resource Name="Util.JDate.CLS"/>
+      <Resource Name="JDate.INC"/>
     </Module>
   </Document>
 </Export>
