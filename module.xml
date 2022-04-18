@@ -5,6 +5,8 @@
       <Name>JDate</Name>
       <Version>2.0</Version>
       <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="JDate.PKG"/>
       <Description>Japanese Calendar Converter for InterSystems products</Description>
     </Module>
   </Document>
