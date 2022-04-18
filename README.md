@@ -46,7 +46,7 @@ write ##class(Util.JDate).DisplayToLogical(JD1,1)
 ### Prereqisites for Docker
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 
-## Installation 
+#### Installation 
 Clone/git pull the repo into any local directory
 ```
 git clone https://github.com/intersystems-community/JDate.git    
@@ -55,7 +55,7 @@ Run the IRIS container with your project:
 ```
 docker-compose up -d --build
 ```
-## How to Test it
+#### How to Test it
 Connect to the container using [webterminal](http://localhost:52773/terminal/?ns=USER) or    
 start an IRIS session in docker
 ```
