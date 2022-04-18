@@ -63,7 +63,7 @@ start an IRIS session in docker
 ```
 or use    
 [Demo Server SMP](https://jdate.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://jdate.community.intersystems.com/terminal/)    **    
+[Demo Server WebTerminal](https://jdate.community.intersystems.com/terminal/)       
 
 **Code Quality**   
 <img width="85%" src="../../blob/master/CodeQuality.JPG?raw=true">
