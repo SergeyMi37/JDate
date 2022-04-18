@@ -66,4 +66,5 @@ or use
 [Demo Server WebTerminal](https://jdate.community.intersystems.com/terminal/)    **    
 
 **Code Quality**   
-<img width="85%" src="CodeQuality.JPEG">
+<img width="85%" src="../../blob/master/CodeQuality.JPEG?raw=true">
+
