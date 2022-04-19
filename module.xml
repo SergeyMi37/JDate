@@ -7,7 +7,7 @@
       <Description>Japanese Calendar Converter for InterSystems products</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="Util.JDate.CLS"/>
+      <Resource Name="isj.library.tools.JDate.CLS"/>
       <Resource Name="JDate.INC"/>
     </Module>
   </Document>
