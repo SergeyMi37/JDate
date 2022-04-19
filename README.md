@@ -10,27 +10,27 @@ Import and compile the files in the src directory to a given namespace.
 
 ### Examples:
 
-```Write ##class(Util.JDate).LogicalToDisplay(70000,1)```
+```Write ##class(isj.library.tools.JDate).LogicalToDisplay(70000,1)```
 
 R140826
 
 
-```Write ##class(Util.JDate).LogicalToDisplay(70000,2)```
+```Write ##class(isj.library.tools.JDate).LogicalToDisplay(70000,2)```
 
 令和14年08月26日
 
-```Write ##class(Util.JDate).DisplayToLogical(“R140826”,1)```
+```Write ##class(isj.library.tools.JDate).DisplayToLogical(“R140826”,1)```
 
 70000
    
-```Write ##class(Util.JDate).DisplayToLogical(“令和14年08月26日”,2)```
+```Write ##class(isj.library.tools.JDate).DisplayToLogical(“令和14年08月26日”,2)```
 
 70000
   
 **for terminals unable to handle Japanese characters**     
 ```
-set JD1=##class(Util.JDate).LogicalToDisplay(70000,1)
-set JD2=##class(Util.JDate).LogicalToDisplay(70000,2)
+set JD1=##class(isj.library.tools.JDate).LogicalToDisplay(70000,1)
+set JD2=##class(isj.library.tools.JDate).LogicalToDisplay(70000,2)
 
 zzdump JD1
 0000: 52 31 34 30 38 32 36                                    R140826
@@ -38,9 +38,9 @@ zzdump JD2
 0000: 4EE4 548C 0031 0034 5E74 0030 0038 6708                 令和14年08月
 0008: 0032 0036 65E5                                          26日
 
-write ##class(Util.JDate).DisplayToLogical(JD2,2)
+write ##class(isj.library.tools.JDate).DisplayToLogical(JD2,2)
 70000
-write ##class(Util.JDate).DisplayToLogical(JD1,1)
+write ##class(isj.library.tools.JDate).DisplayToLogical(JD1,1)
 70000
 ```
 ### Prereqisites for Docker
